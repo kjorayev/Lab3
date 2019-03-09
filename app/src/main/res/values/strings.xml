@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="try_to_guess_the_secret_word_one_letter_at_a_time">Try to guess the secret word one letter at a time</string>
+    <string name="button">Button</string>
+    <string name="guess_the_letter">Guess the Letter</string>
+    <string name="name">Name</string>
+</resources>
